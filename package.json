@@ -1,6 +1,6 @@
 {
   "name": "tibia-signature-extractor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Command Line Tool to extract signature from Tibia Spr or Dat files",
   "bin": "index.js",
   "scripts": {
