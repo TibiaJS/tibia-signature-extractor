@@ -1,0 +1,22 @@
+{
+  "name": "tibia-signature-extractor",
+  "version": "0.0.1",
+  "description": "Command Line Tool to extract signature from Tibia Spr or Dat files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tibia",
+    "signatures",
+    "otserv",
+    "tibia.spr",
+    "tibia.dat",
+    "cipsoft"
+  ],
+  "author": "gpedro <gpedro831@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.5.1"
+  }
+}
