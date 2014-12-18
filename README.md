@@ -1,4 +1,5 @@
 #Tibia Signature Extractor
+[![NPM](https://nodei.co/npm/tibia-signature-extractor.png)](https://npmjs.org/package/tibia-signature-extractor)
 
 ## Installation
 
