@@ -13,6 +13,12 @@ npm install tibia-signature-extractor -g
 tibia-signature-extractor -f Tibia.spr
 ```
 
+## API
+    * parse(filename)
+        * filename - required - Filename
+        * returns String (signature)
+
+
 ## References
   * [Tibia Sprite File Struture](http://tpforums.org/forum/threads/5031-Tibia-Sprite-File-Structure)
   * [Tibia Dat File Struture](http://tpforums.org/forum/threads/5030-Tibia-Data-File-Structure)
